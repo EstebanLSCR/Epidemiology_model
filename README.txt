@@ -1,1 +1,1 @@
-Se muestra los resultados numéricos de los modelos epidemiológicos propuestos y el valor de cada del R_0
+Se muestra los resultados numéricos en MATLAB de los modelos epidemiológicos propuestos y el valor de cada del R_0
